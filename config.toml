@@ -1,0 +1,4 @@
+baseURL = "http://ferreiradefreitas.github.io"
+languageCode = "en-us"
+title = "Ferreira de Freitas, Vinicios"
+theme = "academic"
